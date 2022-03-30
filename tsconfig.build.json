@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "declaration": false,
+    "sourceMap": false
+  },
+  "files": [],
+  "exclude": [
+    "node_modules",
+    "./src/ui",
+    "vite.config.ts",
+    "windi.config.ts"
+  ]
+}
