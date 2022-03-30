@@ -1,6 +1,6 @@
 {
   "name": "docky",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Evgeniy Kozlov",
   "license": "MIT",
   "main": "build/index.js",
